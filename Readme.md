@@ -4,6 +4,6 @@
 
 2- cd into this repo
 
-3- run make install
+3- run `make install`
 
 4- run `fileManager -h` in the terminal and use the cli tool
